@@ -18,4 +18,8 @@ sudo ip link add name captain0 type bridge
 sudo ip link set captain0 up
 ```
 
+### curl 
+
+curl --interface captaon0 https://www.baidu.com
+
 ## References

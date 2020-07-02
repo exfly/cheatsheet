@@ -1,4 +1,5 @@
 # tar.gz
+
 tar -zcvf pipeline.tar.gz dirname 压缩
 
 tar -zxvf name.tar.gz # 解压
